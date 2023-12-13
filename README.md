@@ -7,7 +7,7 @@
 - **Project Summary**:
   - **Summarize the Background/Motivation**
 
-    In recent years, climate change has been a focal point of intense debate, sparking widespread discussions on various platforms, particularly on the internet. This heightened discourse is mirrored by the escalating pace of climate change and the frequent occurrences of natural disasters. As society grapples with the increasing impact of climate-related incidents, public perceptions and discussions on climate change have undergone notable shifts. This research aims to navigate this evolving landscape by closely examining Twitter discussions during a crucial period in 2022. The focus is on capturing the changing dynamics and correlations between public sentiments and climatic events, contributing to a deeper understanding of the ongoing discourse surrounding climate change.
+    In recent years, climate change has been a focal point of intense debate, sparking widespread discussions on various platforms, particularly on the internet. This heightened discourse is mirrored by the escalating pace of climate change and the frequent occurrences of natural disasters. As society grapples with the increasing impact of climate-related incidents, public perceptions and discussions on climate change have undergone notable shifts (“Natural Disaster Data Book 2022 (an Analytical Overview) - World | ReliefWeb” 2023). This research aims to navigate this evolving landscape by closely examining Twitter discussions during a crucial period in 2022. The focus is on capturing the changing dynamics and correlations between public sentiments and climatic events, contributing to a deeper understanding of the ongoing discourse surrounding climate change.
   - **Research Questions**
   
     1. **What are the most prevalent topics in climate change discussions on Twitter, and how do the dynamic shifts over time reflect  public perception towards climate change during the first half of 2022?**
@@ -34,7 +34,7 @@
   
     - **Correlation between tweet frequency and natural disasters**
       
-      Examining the correlation between tweet frequency and natural disasters, the analysis focused on the dominance of Australia-related discussions on Twitter from March to June 2022. With a significant portion of tweets mentioning Australia and a notable presence from Australian institutes, the data supported the hypothesis that there is a correlation between the frequency of tweets and the occurrence of natural disasters. The substantial online discussion sparked by these events, including news reports, discussions about post-disaster recovery, and calls for government action, underscored the heightened engagement on Twitter during this period.
+      Examining the correlation between tweet frequency and natural disasters, the analysis focused on the dominance of Australia-related discussions on Twitter from March to June 2022 (CDP 2022). With a significant portion of tweets mentioning Australia and a notable presence from Australian institutes, the data supported the hypothesis that there is a correlation between the frequency of tweets and the occurrence of natural disasters. The substantial online discussion sparked by these events, including news reports, discussions about post-disaster recovery, and calls for government action, underscored the heightened engagement on Twitter during this period.
 
     -  **User stances in climate change discussions on Twitter**
 
@@ -123,6 +123,9 @@
 ### Code Source
 - Title: Easiest way to download kaggle data in Google Colab
 - URL: https://www.kaggle.com/discussions/general/74235
+  
+- Title: Text-Analysis-with-OpenAI-GPT-3.5
+- URL: https://github.com/ddtdanilo/Text-Analysis-with-OpenAI-GPT-3.5
 
 ### Articles & Literature
 - Literature References in Chicago style
@@ -136,6 +139,11 @@ Kirilenko, Andrei P., and Svetlana O. Stepchenkova. 2014. “Public Microbloggin
 Kirilenko, Andrei P., Tatiana Molodtsova, and Svetlana O. Stepchenkova. 2015. “People as Sensors: Mass Media and Local Temperature Influence Climate Change Discussion on Twitter.” Global Environmental Change 30 (January): 92–100. https://doi.org/10.1016/j.gloenvcha.2014.11.003.
 
 Veltri, Giuseppe A., and Dimitrinka Atanasova. 2015. “Climate Change on Twitter: Content, Media Ecology and Information Sharing Behaviour.” Public Understanding of Science 26 (6): 721–37. https://doi.org/10.1177/0963662515613702.
+
+“Natural Disaster Data Book 2022 (an Analytical Overview) - World | ReliefWeb.” 2023. Reliefweb.int. October 12, 2023. https://reliefweb.int/report/world/natural-disaster-data-book-2022-analytical-overview.
+
+CDP. 2022. “2022 Australian Flooding.” Center for Disaster Philanthropy. April 19, 2022. https://disasterphilanthropy.org/disasters/2022-australian-flooding/.
+
 
 - Literature References in Bibtex
 
@@ -207,6 +215,22 @@ Veltri, Giuseppe A., and Dimitrinka Atanasova. 2015. “Climate Change on Twitte
   year={2015},
   doi={10.1177/0963662515613702},
   url={https://doi.org/10.1177/0963662515613702}
+}
+
+@book{reliefweb2023,
+  title = {Natural Disaster Data Book 2022 (an Analytical Overview) - World},
+  author = {{ReliefWeb}},
+  year = {2023},
+  note = {ReliefWeb, October 12, 2023},
+  url = {https://reliefweb.int/report/world/natural-disaster-data-book-2022-analytical-overview}
+}
+
+@online{cdp2022,
+  title = {2022 Australian Flooding},
+  author = {{CDP}},
+  year = {2022},
+  url = {https://disasterphilanthropy.org/disasters/2022-australian-flooding/},
+  note = {Center for Disaster Philanthropy, April 19, 2022}
 }
 
 ```
