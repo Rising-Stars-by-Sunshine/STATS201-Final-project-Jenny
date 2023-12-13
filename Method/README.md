@@ -4,13 +4,11 @@
 
 **Objective:**
 
-
-1. **How do different user stances contribute to climate change discussions on Twitter?**
+1. **What are the most prevalent topics in climate change discussions on Twitter, and how do the dynamic shifts over time reflect  public perception towards climate change during the first half of 2022?**
 
 2. **What is the correlation between the frequency of tweets and the occurrence of natural disasters during the first half of 2022?**
 
-3. **What are the most prevalent topics in climate change discussions on Twitter, and how do the dynamic shifts over time reflect  public perception towards climate change during the first half of 2022?**
-
+3. **How do different user stances contribute to climate change discussions on Twitter?**
 
 **Significance:**
 
