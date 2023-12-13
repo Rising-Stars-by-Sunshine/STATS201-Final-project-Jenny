@@ -14,3 +14,6 @@
   - Additional cleaning
 
 *2. [Data analysis](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/blob/431b3f6a02483a71dabb677821538a329c395550/Code/data%20analysis/Topic_Modeling.ipynb)*
+
+  - Topic modeling
+  - Sentiment analysis
