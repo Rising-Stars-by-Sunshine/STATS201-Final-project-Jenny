@@ -20,86 +20,13 @@
   
   - **Methodology**
 
-    *1. Research Question Formulation*
-    
-    *1.1 Objective*
-    - What are the most prevalent topics in climate change discussions on Twitter, and how do the dynamic shifts over time reflect public perception towards climate change during the first half of 2022?
-    - What is the correlation between the frequency of tweets and the occurrence of natural disasters during the first half of 2022?
-    - How do different user stances contribute to climate change discussions on Twitter?
-    
-    *1.2 Significance*
-    
-    Understanding the intricate relationship between real-world events, environmental policies, and public discourse on social media is paramount (*Chen, Zou, and Zhao, 2019*). This research contributes valuable insights for policymakers, researchers, and the broader public.
-    
-    *2. Operational Measures*
-    
-    *2.1 Variables*
-    
-    - *Dependent Variable (Y):* Public perception of climate change discussions on Twitter (measured by tweet frequency).
-    - *Independent Variables (X):* The occurrence of extreme weather events, Release of environmental policy.
-    
-    *2.2 Data Type*
-    
-    Time-series data collected by filtering the top daily tweets based on the hashtag 'Climate Change' during the first half of 2022.
-    
-    *3. Hypothesis Development*
-    
-    *3.1 Prediction Hypothesis*
-    
-    Anticipates a positive correlation between the frequency of extreme weather events, significant environmental policy releases, and public perception of climate change discussions on Twitter.
-    
-    *3.2 Justification*
-    
-    Grounded in recent findings (*Chen, Zou, and Zhao 2019*), external events stimulate increased discussions about climate change on social media.
-    
-    *4. Machine Learning Algorithm Selection*
-    
-    *4.1 Sentiment Analysis*
-    
-    - *Algorithm:* OpenAI's GPT-3.5 model.
-    - *Justification:* GPT-3.5's advanced natural language processing for nuanced sentiment classification.
-    
-    *4.2 Topic Modeling*
-    
-    - *Algorithm:* BERTopic.
-    - *Justification:* Efficacy in uncovering thematic clusters within text data.
-    
-    *4.3 Linear Regression Analysis*
-    
-    - *Algorithm:* Linear Regression.
-    - *Justification:* Suitable for exploring relationships between sentiments and public perceptions of climate change.
-    
-    *5. The Machine Learning Workflow*
-    
-    *5.1 Model Development*
-    - Comprehensive dataset collection from Twitter (Jan-Jul 2022).
-    - Tweet classification using OpenAI's GPT-3.5 model.
-    - Topic modeling with BERTopic.
-    - Sentiment analysis for discerning emotional inclinations.
-    - Linear regression analysis to investigate the correlation between sentiments and public perceptions.
-    
-    *5.2 Results Presentation*
-    
-    - Training and Testing through cross-validation.
-    - Data Visualization of thematic clusters, sentiment trends, and linear regression results.
-    - Comparative Analysis with representative accounts embodying different stances.
-    
-    *5.3 Model Evaluation*
-    
-    - Criteria: Precision, F1 Score.
-    - Comparison with Representative Accounts to validate stance classification.
-    
-    *6. Iterative Improvement*
-    
-    - *OpenAI's GPT-3.5:*
-      - Feedback Mechanism for user input.
-      - Bias Mitigation strategies.
-    
-    - *BERTopic:*
-      - Cross-Validation with Diverse Data to enhance generalization.
+  The methodology is designed to address three research questions, focusing on prevalent topics, the correlation between tweet frequency and natural disasters, and the impact of different user stances on climate change discussions on Twitter. The significance lies in providing insights for policymakers, researchers, and the public regarding the intricate relationship between real-world events, environmental policies, and social media discourse.
+
+  Operational measures include defining variables (dependent: tweet frequency, independent: extreme weather events, environmental policy), with time-series data collected from top daily tweets with the 'Climate Change' hashtag in the first half of 2022. The hypothesis anticipates a positive correlation based on recent findings. Machine learning involves GPT-3.5 for sentiment analysis, BERTopic for topic modeling, and linear regression for analyzing relationships.
+
+  The workflow includes dataset collection, tweet classification, topic modeling, sentiment analysis, and linear regression. Results presentation involves cross-validation, data visualization of clusters and trends, comparative analysis with representative accounts, and model evaluation using precision and F1 score. Iterative improvement strategies include feedback and bias mitigation for GPT-3.5 and cross-validation for BERTopic. This concise methodology aims to comprehensively explore climate change discussions on Twitter.
 
   - [Results]
-  - [Intellectual Merits and Practical impacts of your project.]
 
 ## Table of Contents
 - [Literature](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/tree/main/Literature)
@@ -119,11 +46,11 @@
 
 
 ## More about the Author
-- **headshot**
+- **Headshot**
 
 ![_DSC2255](https://github.com/jennycheng1112/STATS201_Autumn2023_Week2_Sunshine.github.io/assets/125801773/4fdcc3d1-f6d7-4e94-868f-93e2578698de)
 
-- **self-introduction**
+- **Self-introduction**
 
   Hi I'm Jenny Zheng from Duke Kunshan University, Class of 2026.
 
