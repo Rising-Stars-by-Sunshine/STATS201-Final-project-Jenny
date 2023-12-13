@@ -52,7 +52,7 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 
 **Justification:** BERTopic is chosen for its efficacy in uncovering thematic clusters within text data. Its application to stance-specific datasets enables a detailed exploration of prevalent themes within each stance, contributing to a comprehensive overview of shifts in climate change discussions.
 
-### 1.4.3 Linear Regression Analysis
+### 1.4.3 Linear Regression Analysis(for further research)
 
 **Algorithm:** Linear Regression
 
@@ -60,8 +60,7 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 
 # 2. The Machine Learning Workflow
 
-## 2.1 Model Development
-
+## 2.1 Model Development(for further research)
 
 **Dataset Collection:** Gather a comprehensive dataset from Twitter, encompassing over a million tweets from January to July 2022.
 
@@ -73,7 +72,7 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 
 **Linear Regression Analysis:** Employ linear regression analysis to investigate the correlation between sentiments towards economic and environmental policies and public perceptions of climate change.
 
-## 2.2 Results Presentation
+## 2.2 Results Presentation(for further research)
 
 ### 2.2.1 Training and Testing
 
@@ -91,7 +90,7 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 
 **Comparative Analysis:** Visualize the results of stance classification by comparing the model's predictions with tweets from representative accounts embodying each stance (believers, neutrals, deniers). This can be presented through stacked bar charts or confusion matrices.
 
-## 2.3 Model Evaluation
+## 2.3 Model Evaluation(for further research)
 
 ### 2.3.1 Evaluation Criteria
 
@@ -105,7 +104,7 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 
 - **F1 Score:** Utilize the F1 score to balance precision and recall, providing a comprehensive measure of the model's performance in stance classification.
 
-## 2.4 Iterative Improvement
+## 2.4 Iterative Improvement(for further research)
 
 **For OpenAI's GPT-3.5 for sentiment analysis:**
 
