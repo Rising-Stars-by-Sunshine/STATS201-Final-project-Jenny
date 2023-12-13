@@ -4,7 +4,7 @@
 *1. Background/Motivation:*
 This study addresses the challenge of automatically assessing attitudes towards climate change using social media content. As debates on climate change intensify, understanding public sentiments becomes imperative. Traditional survey methods possess limitations concerning time, expenses, and biases associated with participants. Utilizing social media enables real-time responses, bypassing predefined survey questions. However, interpreting and categorizing human expressions on these platforms remains arduous.
 
-*2. Research Question:*
+*2. Research Questions:*
 1. How can a Deep Neural Network (DNN) be optimized to distinguish climate change deniers from believers based on their Twitter posts?
 2. What are the temporal patterns in climate change discussions on Twitter during the year 2016?
 3. How do extreme weather events and policy changes influence the volume and nature of climate change discussions on social media platforms?
