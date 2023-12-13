@@ -26,7 +26,7 @@
 
     The workflow includes dataset collection, tweet classification, topic modeling, sentiment analysis, and linear regression. Results presentation involves cross-validation, data visualization of clusters and trends, comparative analysis with representative accounts, and model evaluation using precision and F1 score. Iterative improvement strategies include feedback and bias mitigation for GPT-3.5 and cross-validation for BERTopic. This concise methodology aims to comprehensively explore climate change discussions on Twitter.
 
-  - **[Results](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/tree/a100a2d35e37329fc7d2f965bf596e8719c99563/Results)**
+  - **Results**
     
     - **Most Prevalent topics in climate change discussions on Twitter**
     
