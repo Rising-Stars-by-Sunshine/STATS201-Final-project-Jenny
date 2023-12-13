@@ -120,7 +120,8 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 - **Cross-Validation with Diverse Data:** Enhance cross-validation techniques by ensuring diversity in the dataset, encompassing a wide range of expressions and perspectives specific to climate change discourse. This approach improves the model's ability to generalize across varied user behaviors in this domain.
 
 # Mindmap created by Whimscal
-<img width="606" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/be7851f2-763b-4170-b296-852967e5cd8c">
+
+<img width="636" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/040b90a7-f50f-4284-bfa2-2f6483ff324c">
 
 # References
 Chen, Xingyu, Lei Zou, and Bo Zhao. 2019. “Detecting Climate Change Deniers on Twitter Using a Deep Neural Network.” Proceedings of the 2019 11th International Conference on Machine Learning and Computing - ICMLC ’19. https://doi.org/10.1145/3318299.3318382.
