@@ -16,7 +16,7 @@
 
   - **Application Scenario (Data Source)**
   
-  The research relies on a Kaggle-sourced dataset, covering daily Twitter discussions on 'Climate Change' from January 1, 2022, to July 19, 2022. This dataset, chosen during a year marked by unprecedented global extreme weather events, offers a unique insight into public sentiment during impactful climatic occurrences. Leveraging machine learning, specifically OpenAI's GPT-3.5 for sentiment analysis and BERTopic for topic modeling, the study aims to explore the correlation between climate discourse, extreme weather events, and environmental policy releases. The extensive timeframe allows for iterative exploration, providing refined insights into the evolving dynamics of public perception concerning climate change on Twitter amid the climate crisis.
+  The research relies on a [Kaggle-sourced dataset](https://www.kaggle.com/datasets/die9origephit/climate-change-tweets), covering daily Twitter discussions on 'Climate Change' from January 1, 2022, to July 19, 2022. This dataset, chosen during a year marked by unprecedented global extreme weather events, offers a unique insight into public sentiment during impactful climatic occurrences. Leveraging machine learning, specifically OpenAI's GPT-3.5 for sentiment analysis and BERTopic for topic modeling, the study aims to explore the correlation between climate discourse, extreme weather events, and environmental policy releases. The extensive timeframe allows for iterative exploration, providing refined insights into the evolving dynamics of public perception concerning climate change on Twitter amid the climate crisis.
   
   - **Methodology**
 
