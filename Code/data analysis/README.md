@@ -7,17 +7,11 @@
 
 **2. Data analysis**
 
-Embarking on the exploration of prevalent topics within the climate change discourse on Twitter, I employ an advanced machine learning technique, specifically BERTopic. This approach aims to unravel nuanced themes through data analysis and visualization methods, shedding light on the most discussed subjects in the Twitter community.
+Embarking on the exploration of prevalent topics within the climate change discourse on Twitter, I employ an advanced machine learning technique, specifically BERTopic, for data analysis and visualization. This approach aims to unravel nuanced themes, shedding light on the most discussed subjects in the Twitter community.
 
-Furthermore, an exploration into the temporal dynamics of these identified topics takes shape. Employing a variety of visualization methods, this analysis shows the evolving trends of climate change discussions over time, offering valuable insights into the dynamic nature of discussion on Twitter.
+In addition to topic exploration, sentiment analysis is integrated into the study to discern the emotional inclinations and attitudes expressed within tweets discussing climate change. Leveraging OpenAI's GPT-3.5 model, this sentiment analysis enhances the understanding of public sentiment dynamics over time.
 
-Subsequent analyses extend to probing the correlation between public sentiment, extreme natural events, and the release of environmental policies. The observed peaks and fluctuations in the graphical representations serve as crucial indicators for predicting relationships between public perception and external factors such as extreme weather occurrences and policy releases.
+Furthermore, an exploration into the temporal dynamics of these identified topics and sentiments takes shape. Employing a variety of visualization methods, this analysis shows the evolving trends of climate change discussions and sentiments over time, offering valuable insights into the dynamic nature of the discussion on Twitter. The observed peaks and fluctuations in the graphical representations serve as crucial indicators for predicting relationships between public perception and external factors such as extreme weather occurrences.
 
 - [Topic Modeling](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/blob/58348ced95c7a4eb34483ca0442a8a6ea21a76ca/Code/data%20analysis/Topic_Modeling%20(2).ipynb)
 - [Sentiment Analysis](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/blob/58348ced95c7a4eb34483ca0442a8a6ea21a76ca/Code/data%20analysis/Sentiment%20Analysis.ipynb)
-
-**Spotlight:**
-
-![image](https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/89bf2fa5-cedc-4ed0-ace5-a4716433455c)
-
-<img width="1092" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-PS2-Jenny/assets/125801773/00691e16-9a1f-418a-ac85-9282f384157b">
