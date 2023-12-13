@@ -15,3 +15,6 @@ Furthermore, an exploration into the temporal dynamics of these identified topic
 
 - [Topic Modeling](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/blob/58348ced95c7a4eb34483ca0442a8a6ea21a76ca/Code/data%20analysis/Topic_Modeling%20(2).ipynb)
 - [Sentiment Analysis](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/blob/58348ced95c7a4eb34483ca0442a8a6ea21a76ca/Code/data%20analysis/Sentiment%20Analysis.ipynb)
+
+  <img width="564" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/4e8ac993-bdb2-4833-9994-693e7cb81ffb">
+
