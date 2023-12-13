@@ -64,6 +64,11 @@ The climate change discussion on Twitter reflects varied viewpoints, as 47% of u
 
 **Note: the sentiment analysis and stance classification is still at the early stage of my research, further model improvement is now in progress. If you are interested in how my model will be evaluated and improved, please go to the [methodology part](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/tree/4162b66102fa82fb11ae4811c9c5677852308820/Method) and check**
 
+### Mindmap by Whimscal
+
+<img width="1108" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/d35137ba-da0d-4028-b930-511a1e2f3fa6">
+
+
 ### References:
 
 CDP. 2022. “2022 Australian Flooding.” Center for Disaster Philanthropy. April 19, 2022. https://disasterphilanthropy.org/disasters/2022-australian-flooding/.
