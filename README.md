@@ -51,11 +51,11 @@
 - References
 
 ## Spotlight
-- [Poster](https://www.canva.com/design/DAF1hUBwwuM/WJmKBJOVM69UGGlLisD07g/edit?utm_content=DAF1hUBwwuM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **[Poster](https://www.canva.com/design/DAF1hUBwwuM/WJmKBJOVM69UGGlLisD07g/edit?utm_content=DAF1hUBwwuM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
 
 <img width="397" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/5a08d9c4-77cd-42dd-a84b-bc045eb375e1">
 
-- Figures and visualizations
+- **Figures and visualizations**
 
 <img width="842" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/95d635e4-e356-4171-b2f9-456f9f99efba">
 
