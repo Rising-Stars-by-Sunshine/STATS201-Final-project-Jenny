@@ -28,6 +28,7 @@ The developed DNN model effectively identified climate change deniers and reveal
 This approach not only showcased the efficiency of DNNs in classifying climate change attitudes but also emphasized the significance of social media in assessing public opinion. The study contributes to the application of deep learning algorithms in natural language processing, providing enhanced understanding of the factors influencing public attitudes towards climate change.
 
 **Mindmap created by Whimscal**
+
 <img width="708" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201_JennyZheng/assets/125801773/1d008706-db45-4354-a10e-d7ac1df4061b">
 
 
@@ -66,23 +67,23 @@ My research builds upon existing literature by integrating advanced machine lear
 
 Here's how my research connects to and enhances previous works:
 
-**1. Integration of Machine Learning Algorithms:**
+**1. Integration of machine learning algorithms:**
    - **Connection:** Existing research, such as Chen, Zou, and Zhao (2019), has explored the use of Deep Neural Networks (DNN) to detect climate change deniers on Twitter.
    - **Advancement:** My research extends this by not only utilizing machine learning, specifically OpenAI's GPT-3.5 for sentiment analysis and BERTopic for topic modeling, but also incorporating linear regression analysis to investigate correlations between sentiments, environmental policies, and public perceptions. This multi-faceted approach provides a more comprehensive understanding of the dynamics within climate change discussions.
 
-**2. Temporal Analysis and Specific Time Frame:**
+**2. Temporal analysis and specific time frame:**
    - **Connection:** The study on measuring climate change on Twitter using Google’s algorithm (Hamed et al., 2015) addressed the importance of temporal patterns in climate change discussions.
    - **Advancement:** My research further refines the temporal analysis by focusing on a specific time frame, the first half of 2022, marked by notable climate events. This temporal specificity enhances the precision of My analysis, capturing the immediate impact of incidents on public discourse.
 
-**3. Incorporation of Stance Classification and Sentiment Analysis:**
+**3. Incorporation of stance classification and sentiment analysis:**
    - **Connection:** Kirilenko et al. (2015) studied the linkage of local temperature effects on Twitter's awareness, recognizing complex terms in climate discussions.
    - **Advancement:** My research surpasses this by incorporating stance classification (believers, neutrals, deniers) and sentiment analysis using GPT-3.5. This not only refines the classification process but also provides nuanced insights into emotional inclinations and attitudes expressed in tweets.
 
-**4. Thematic Clusters and Elimination of Subjectivity Errors:**
+**4. Thematic clusters and elimination of subjectivity errors:**
    - **Connection:** The study using Google’s algorithm (Hamed et al., 2015) focused on objective computational approaches for climate change event detection.
    - **Advancement:** My research employs BERTopic to identify thematic clusters, offering a more sophisticated understanding of prevalent topics. This goes beyond mere event detection, eliminating subjectivity errors and providing a nuanced exploration of the evolving themes within climate change discourse.
 
-**5. Model Evaluation and Comparison with Representative Accounts:**
+**5. Model evaluation and comparison with representative accounts:**
    - **Connection:** Chen, Zou, and Zhao (2019) utilized a DNN classifier for discerning 'denier' or 'non-denier' tweets.
    - **Advancement:** My research introduces an extensive model evaluation process, including precision, recall, F1 score, and a comparison with tweets from representative accounts embodying different stances. This enhances the reliability of My model's outputs by validating them against real-world perspectives.
    
