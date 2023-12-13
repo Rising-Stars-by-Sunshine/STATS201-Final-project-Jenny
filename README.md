@@ -26,7 +26,19 @@
 
   The workflow includes dataset collection, tweet classification, topic modeling, sentiment analysis, and linear regression. Results presentation involves cross-validation, data visualization of clusters and trends, comparative analysis with representative accounts, and model evaluation using precision and F1 score. Iterative improvement strategies include feedback and bias mitigation for GPT-3.5 and cross-validation for BERTopic. This concise methodology aims to comprehensively explore climate change discussions on Twitter.
 
-  - [Results]
+  - **[Results](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/tree/a100a2d35e37329fc7d2f965bf596e8719c99563/Results)**
+    
+    - **Most Prevalent topics in climate change discussions on Twitter**
+    
+      The analysis of Twitter data revealed the most prevalent topics in climate change discussions during the first half of 2022. Notable themes included discussions about climate-related issues within the political landscape of Australia, the intersection of climate change and agriculture, and general discourse about climate change. Topics also delved into the automotive industry's role in climate change mitigation, emissions in the context of government actions, and discussions extending beyond climate change to include political processes. The temporal evolution of these topics demonstrated a nuanced reflection of public sentiment, adapting to real-world events and developments.
+  
+    - **Correlation between tweet frequency and natural disasters**
+      
+      Examining the correlation between tweet frequency and natural disasters, the analysis focused on the dominance of Australia-related discussions on Twitter from March to June 2022. With a significant portion of tweets mentioning Australia and a notable presence from Australian institutes, the data supported the hypothesis that there is a correlation between the frequency of tweets and the occurrence of natural disasters. The substantial online discussion sparked by these events, including news reports, discussions about post-disaster recovery, and calls for government action, underscored the heightened engagement on Twitter during this period.
+
+    -  **User stances in climate change discussions on Twitter**
+
+      The exploration of user stances in climate change discussions on Twitter revealed a diverse spectrum of viewpoints. Approximately 47% of users maintained neutrality, 28% expressed skepticism, and 25% advocated for climate change. This dynamic distribution emphasized the ongoing debate in climate change discourse and highlighted the importance of education and advocacy efforts to shape public opinion. Sentiment analysis further provided a nuanced understanding of user sentiments within each tweet, contributing to the classification of stances based on sentiment analysis.
 
 ## Table of Contents
 - [Literature](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/tree/main/Literature)
@@ -43,6 +55,23 @@
 
 <img width="397" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/5a08d9c4-77cd-42dd-a84b-bc045eb375e1">
 
+- Figures and visualizations
+
+<img width="842" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/95d635e4-e356-4171-b2f9-456f9f99efba">
+
+*Figure1. Most populaer topics related to #climatechange*
+
+<img width="787" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/bc31e4ee-6e6f-40b0-9d56-4291ccc561cb">
+
+*Figure2. Topics over time during the first half of 2022*
+
+<img width="680" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/81df5563-eb24-4181-a718-07852969551f">
+
+*Figure3. Similarity matrix for popular topics*
+
+<img width="475" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/37b7482d-bb62-49cf-b112-49528dbcbd29">
+
+*Figure4. Stance classification based on sentiment analysis*
 
 ## More about the Author
 - **Headshot**
@@ -71,16 +100,19 @@
 - **Final reflections**
   - **Intellectual Growth:**
 
-    Through Class: Gaining proficiency in machine learning has afforded me a more profound comprehension of its contemporary applications. In the realm of social science, employing machine learning and diverse packages to address societal issues has empowered me to explore and resolve these topics more thoroughly. Moreover, the classroom setting facilitated a better grasp of machine learning applications, as students could conduct research aligned with their individual interests. Consequently, the class structure and environment significantly facilitated my in-depth exploration of the practical applications of machine learning.
+    Gaining proficiency in machine learning has afforded me a more profound comprehension of its contemporary applications. In the realm of social science, employing machine learning and diverse packages to address societal issues has empowered me to explore and resolve these topics more thoroughly. Moreover, the classroom setting facilitated a better grasp of machine learning applications, as students could conduct research aligned with their individual interests. Consequently, the class structure and environment significantly facilitated my in-depth exploration of the practical applications of machine learning.
 
   - **Interdisciplinary Growth:**
   
-    In taking this course and hearing everyone's research directions, I was able to observe how interdisciplinary collaboration truly unfolds in research. Specifically, as a computation and design major, most of my research stems from design thinking. However, adding a research topic concerning the global health and linguistic perspective of the impact and features of language impairment allowed me to further broaden my knowledge. Furthermore, witnessing the different approaches that students from various majors take in conducting this research was intriguing. For instance, computer science students may focus more on the coding and efficiency aspects, while I, with a design thinking perspective, consider the potential impact of such research in the context of design. It was interesting to see the diversity of approaches.
-Professional growth: Gaining a general understanding of machine learning has significantly contributed to my professional growth, enabling me to engage in discussions with a diverse range of designers and artists. Particularly, in light of the prevailing trend where many designers utilize machine learning as a tool to enhance their work, I view my decision to advance my professional growth in this direction as a meaningful step forward.
+    In taking this course and learning peer's research directions, I was able to observe how interdisciplinary collaboration truly unfolds in research. Specifically, as a computation and design major, most of my research stems from design thinking. However, adding a research topic concerning finance, data science and linguistic perspective of the impact and features of language impairment allowed me to further broaden my knowledge. Furthermore, witnessing the different approaches that students from various majors take in conducting this research was intriguing. It was interesting to see the diversity of approaches.
+
+  - **Professional growth:**
+
+    Gaining a general understanding of machine learning has significantly contributed to my professional growth, enabling me to engage in discussions with a diverse range of designers and artists. Particularly, in light of the prevailing trend where many designers utilize machine learning as a tool to enhance their work, I view my decision to advance my professional growth in this direction as a meaningful step forward.
 
   - **Living a purposeful life:**
 
-    In the future, I aspire to be acknowledged as a designer characterized by a commitment to care. Given that many of my projects center around improving the learning process and addressing global issues, I aim to be recognized within the design community as a leading advocate for compassionate design. Thus, my feature sentence would potentially be "advocate for compassionate design within the design community". I would like my future contributions to the world to involve encouraging more designers to create things based on care and support for the world.
+    In the future, I aspire to solve real-world problems with my data science skills and industry knowledge. With a focus on addressing global issues and societal problems like climate change, I aim to establish myself as a prominent advocate for applying data science to real-world issues. In essence, my overarching goal is to contribute to the design and implementation of innovative solutions that promote sustainability, and positive societal impact. I envision a future where my work not only enhances learning processes but also inspires fellow data scientists and designers to create solutions that prioritize care and support for our world.
 
 ## References
 
