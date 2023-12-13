@@ -56,7 +56,7 @@ The climate change discussion on Twitter reflects varied viewpoints, as 47% of u
 
 <img width="260" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/cac43331-94e2-434f-96e4-ce027a3cf4f0">
 
-*Figure4. Sentiment score for text within each tweet based on sentiment analysis*
+*Figure4. Sentiment score for text within each tweet based on sentiment analysis(template)*
 
 <img width="475" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/37b7482d-bb62-49cf-b112-49528dbcbd29">
 
