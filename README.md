@@ -1,4 +1,4 @@
-# Title [How to Choice a Good Title?](https://www.nature.com/articles/s41562-021-01152-2)
+# Public Perception on Climate Change — Analyzing Twitter Discourse on Climate Change in the Epoch of Extreme Weather
 ## Project information
 - **Author**: Ni Zheng, Computation and Design/Social Policy, Class of 2026, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
@@ -123,7 +123,11 @@
 ## Result
 
 ## Spotlight
-- Posters
+- [Posters](https://www.canva.com/design/DAF1hUBwwuM/WJmKBJOVM69UGGlLisD07g/edit?utm_content=DAF1hUBwwuM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<img width="397" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/5a08d9c4-77cd-42dd-a84b-bc045eb375e1">
+
+
 - Figures
 - Slides
 - Presentations
