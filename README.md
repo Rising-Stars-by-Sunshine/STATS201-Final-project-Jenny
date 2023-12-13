@@ -131,9 +131,31 @@
 - Media appearance
 
 ## More about the Author
-- headshot
-- self-introduction
-- Final reflections 
+- **headshot**
+
+![_DSC2255](https://github.com/jennycheng1112/STATS201_Autumn2023_Week2_Sunshine.github.io/assets/125801773/4fdcc3d1-f6d7-4e94-868f-93e2578698de)
+
+- **self-introduction**
+
+  Hi I'm Jenny Zheng from Duke Kunshan University, Class of 2026.
+
+  **Intended major:** Computation and Design with Social Policy track
+  
+  **Research projects focus:** quantitative social science and environmental science; analyzing public perceptions on societal problems.
+  
+  Besides, I am also interested in consulting and finance, where I'd like to apply my skills to business-world practice.
+  
+  **Other experiences**:
+  - Bain & Company, Part-time assistant
+    - PE fund, FMCG, Manufacturing
+    - Strategy, Due diligence
+  - GoodWe, Investment intern
+    - industry research on renewable energy
+  - Duke Kunshan University, Peer tutor
+    - STATS101, Applied statistical methods
+
+
+- **Final reflections**
   - intellectual growth
   - professional growth
   - living a purposeful life
@@ -141,9 +163,13 @@
 ## References
 
 ### Data Source
-- Data Source Title and URL
+- Title: Climate Change Tweets
+- URL: https://www.kaggle.com/datasets/die9origephit/climate-change-tweets
+
 ### Code Source
-- Code Source Title and URL
+- Title: Easiest way to download kaggle data in Google Colab
+- URL: https://www.kaggle.com/discussions/general/74235
+
 ### Articles
 - Article Source Title and URL
 ### Literature
