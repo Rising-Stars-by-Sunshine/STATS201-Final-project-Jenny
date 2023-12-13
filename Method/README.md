@@ -120,9 +120,40 @@ Grounded in recent findings (Chen, Zou, and Zhao 2019), this hypothesis posits t
 
 <img width="636" alt="image" src="https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/assets/125801773/040b90a7-f50f-4284-bfa2-2f6483ff324c">
 
-# References
-Chen, Xingyu, Lei Zou, and Bo Zhao. 2019. “Detecting Climate Change Deniers on Twitter Using a Deep Neural Network.” Proceedings of the 2019 11th International Conference on Machine Learning and Computing - ICMLC ’19. https://doi.org/10.1145/3318299.3318382.
+## References
 
-Mildenberger, Matto, and Anthony Leiserowitz. 2017. “Public Opinion on Climate Change: Is There an Economy–Environment Tradeoff?” Environmental Politics 26 (5): 801–24. https://doi.org/10.1080/09644016.2017.1322275.
+Chen, Xingyu, Lei Zou, and Bo Zhao. 2019. “Detecting Climate Change Deniers on Twitter Using a Deep Neural Network.” Proceedings of the 2019 11th International Conference on Machine Learning and Computing - ICMLC ’19. [https://doi.org/10.1145/3318299.3318382](https://doi.org/10.1145/3318299.3318382).
 
-‌Hamed, Ahmed Abdeen, Alexa A. Ayer, Eric M. Clark, Erin A. Irons, Grant T. Taylor, and Asim Zia. 2015. “Measuring Climate Change on Twitter Using Google’s Algorithm: Perception and Events.” International Journal of Web Information Systems 11 (4): 527–44. https://doi.org/10.1108/ijwis-08-2015-0025.
+Mildenberger, Matto, and Anthony Leiserowitz. 2017. “Public Opinion on Climate Change: Is There an Economy–Environment Tradeoff?” Environmental Politics 26 (5): 801–24. [https://doi.org/10.1080/09644016.2017.1322275](https://doi.org/10.1080/09644016.2017.1322275).
+
+Hamed, Ahmed Abdeen, Alexa A. Ayer, Eric M. Clark, Erin A. Irons, Grant T. Taylor, and Asim Zia. 2015. “Measuring Climate Change on Twitter Using Google’s Algorithm: Perception and Events.” International Journal of Web Information Systems 11 (4): 527–44. [https://doi.org/10.1108/ijwis-08-2015-0025](https://doi.org/10.1108/ijwis-08-2015-0025).
+
+@article{chen2019detecting,
+  title={Detecting Climate Change Deniers on Twitter Using a Deep Neural Network},
+  author={Chen, Xingyu and Zou, Lei and Zhao, Bo},
+  booktitle={Proceedings of the 2019 11th International Conference on Machine Learning and Computing - ICMLC ’19},
+  year={2019},
+  doi={10.1145/3318299.3318382},
+}
+
+@article{mildenberger2017public,
+  title={Public Opinion on Climate Change: Is There an Economy–Environment Tradeoff?},
+  author={Mildenberger, Matto and Leiserowitz, Anthony},
+  journal={Environmental Politics},
+  volume={26},
+  number={5},
+  pages={801--824},
+  year={2017},
+  doi={10.1080/09644016.2017.1322275},
+}
+
+@article{hamed2015measuring,
+  title={Measuring Climate Change on Twitter Using Google’s Algorithm: Perception and Events},
+  author={Hamed, Ahmed Abdeen and Ayer, Alexa A. and Clark, Eric M. and Irons, Erin A. and Taylor, Grant T. and Zia, Asim},
+  journal={International Journal of Web Information Systems},
+  volume={11},
+  number={4},
+  pages={527--544},
+  year={2015},
+  doi={10.1108/ijwis-08-2015-0025},
+}
