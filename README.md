@@ -20,7 +20,7 @@
   
   - **Methodology**
 
-    The methodology is designed to address three research questions, focusing on prevalent topics, the correlation between tweet frequency and natural disasters, and the impact of different user stances on climate change discussions on Twitter. The significance lies in providing insights for policymakers, researchers, and the public regarding the intricate relationship between real-world events, environmental policies, and social media discourse.
+    The methodology is designed to address three research questions, focusing on prevalent topics, the correlation between tweet frequency and natural disasters, and the impact of different user stances on climate change discussions on Twitter. The significance lies in providing insights for policymakers, researchers, and the public regarding the intricate relationship between real-world events, environmental policies, and social media discourse (Hamed et al., 2015).
 
     Operational measures include defining variables (dependent: tweet frequency, independent: extreme weather events, environmental policy), with time-series data collected from top daily tweets with the 'Climate Change' hashtag in the first half of 2022. The hypothesis anticipates a positive correlation based on recent findings. Machine learning involves GPT-3.5 for sentiment analysis, BERTopic for topic modeling, and linear regression for analyzing relationships.
 
