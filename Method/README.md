@@ -128,6 +128,7 @@ Mildenberger, Matto, and Anthony Leiserowitz. 2017. “Public Opinion on Climate
 
 Hamed, Ahmed Abdeen, Alexa A. Ayer, Eric M. Clark, Erin A. Irons, Grant T. Taylor, and Asim Zia. 2015. “Measuring Climate Change on Twitter Using Google’s Algorithm: Perception and Events.” International Journal of Web Information Systems 11 (4): 527–44. [https://doi.org/10.1108/ijwis-08-2015-0025](https://doi.org/10.1108/ijwis-08-2015-0025).
 
+```
 @article{chen2019detecting,
   title={Detecting Climate Change Deniers on Twitter Using a Deep Neural Network},
   author={Chen, Xingyu and Zou, Lei and Zhao, Bo},
@@ -157,3 +158,4 @@ Hamed, Ahmed Abdeen, Alexa A. Ayer, Eric M. Clark, Erin A. Irons, Grant T. Taylo
   year={2015},
   doi={10.1108/ijwis-08-2015-0025},
 }
+```
