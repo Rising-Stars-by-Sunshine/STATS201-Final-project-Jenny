@@ -7,13 +7,13 @@
 
 **[Data analysis](https://github.com/Rising-Stars-by-Sunshine/STATS201-Final-project-Jenny/tree/19e3a247ce27cc5061538df6a009daa9fb852e65/Code/data%20analysis)**
 
-*1. [Data cleaning]*
+*1. Data cleaning*
 
   - Duplicate removal
   - Tweet text cleaning
   - Additional cleaning
 
-*2. [Data analysis]*
+*2. Data analysis*
 
   - Topic modeling
   - Sentiment analysis
